@@ -63,4 +63,6 @@ The dataset contains:
 \- sales\_dashboard.pbix → Power BI dashboard
 
 \- sales.csv → raw dataset
+<img width="1462" height="816" alt="dashboard" src="https://github.com/user-attachments/assets/1455db37-25f8-4259-9e57-b3a529fec8da" />
+
 
